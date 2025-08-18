@@ -13,7 +13,7 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rolalove&show_icons=true&include_all_commits=true&hide_border=true" alt="Kofoworola Shonuyi's GitHub Stats" />
 
-<img src="https://github-readme-stats-2bvyl07q5-kofoworola-shonuyis-projects.vercel.app/api?username=Rolalove&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Kofoworola Shonuyi's GitHub Stats" /> | <img src="https://github-readme-stats-2bvyl07q5-kofoworola-shonuyis-projects.vercel.app/api/top-langs/?username=Rolalove&langs_count=8&layout=compact&hide_border=true" alt="Kofoworola Shonuyi's GitHub languages stats" />
+| <img align="center" src="github-readme-stats-2bvyl07q5-kofoworola-shonuyis-projects.vercel.app?username=Rolalove&show_icons=true&include_all_commits=true&hide_border=true" alt="Kofoworola Shonuyi's GitHub Stats" />
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolalove&langs_count=8&layout=compact&hide_border=true" alt="Kofoworola Shonuyi's GitHub languages stats" /> |
 
