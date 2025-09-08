@@ -9,11 +9,10 @@
 💼 Job interests: Software Engineer or Frontend Engineer.!<br/><br/>
 📫 How to reach me:  [Twitter](https://twitter.com/yourusername),  [LinkedIn](http://linkedin.com/in/kofoworola-shonuyi-647835220) ,  [Gmail](skofoworola3@gmail.com)
 
-<hr/>
+---
 
-| <img src="https://github-readme-stats-2bvyl07q5-kofoworola-shonuyis-projects.vercel.app/api?username=Rolalove&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Kofoworola Shonuyi's GitHub Stats" /> | <img src="https://github-readme-stats-2bvyl07q5-kofoworola-shonuyis-projects.vercel.app/api/top-langs/?username=Rolalove&langs_count=8&layout=compact&hide_border=true" alt="Kofoworola Shonuyi's GitHub languages stats" /> |
-|---|---|
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rolalove&show_icons=true&include_all_commits=true&hide_border=true" alt="Kofoworola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolalove&langs_count=8&layout=compact&hide_border=true" alt="Kofoworola's GitHub stats" /> |
+ ------------- | ------------- |
 
 
 
