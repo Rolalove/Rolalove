@@ -10,10 +10,11 @@
 ---
 
 ### 💡 About Me
-- 🎯 **Building DevTrack** – analytics platform helping developers land better jobs  
-- 📱 **Learning Flutter** at Women Techsters – expanding from web to mobile  
-- 🎓 **Chemistry graduate → AltSchool-trained Developer**  
-- 🌍 **Mission:** Creating tools that solve real-world problems  
+- ⚡ **Frontend Developer** – crafting pixel-perfect user experiences
+- 🛠️ **Currently shipping DevTrack** – making job hunting smarter for developers
+- 🚀 **Mobile journey** – learning Flutter to build everywhere users are
+- 🔬 **Plot twist:** Chemistry grad who fell in love with code
+- 🌟 **Passionate about** creating tools that actually solve problems
 
 ---
 
